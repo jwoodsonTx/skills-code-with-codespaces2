@@ -1,0 +1,6 @@
+{
+  "name" : "Codespace For Skills",
+  "image" : "mcr.microsoft.com/vscode/devcontainers/universal:latest",
+  "remoteUser" : "codespace",
+  "ocerrideCommand" : false
+}
